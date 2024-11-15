@@ -4,7 +4,7 @@ weather forecast. This document serves as a layout for the user interface, softw
 will serve as a reference for the development team for design, implementation and verification phases; the
 SRS is also an agreement between the client and the development teams regarding the functionality of the
 finished product. 
-PRODUCT-SCOPE:It will be able to collect and display local weather data, analyze weather forecast and display a live stream of the local weather. The product will be able to predict the weather. The product will be accessible through a
+It will be able to collect and display local weather data, analyze weather forecast and display a live stream of the local weather. The product will be able to predict the weather. The product will be accessible through a
 website where you will have the benefit of seeing what the weather looks like outside and see if the walkways
 have been shoveled. The main goal is to have a website that will give you information about the weather. We
 can use the following:
