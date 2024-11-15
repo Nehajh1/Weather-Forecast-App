@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weather App</title>
+    <link href="https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="weather.css">
+</head>
+<body>
+    <h1>Weather Application</h1>
+    <div class="container-fluid">
+        <section class="main">
+            <section class="inputs">
+                <input type="text" id="cityinput" placeholder="Enter any city...">
+                <input type="submit" value="Submit" id="add">
+            </section>
+            <section class="display">
+                <div class="wrapper">
+                    <p id="description"></p>
+                    <h2 id="cityoutput"></h2>
+                    <p id="temperature"></p>
+                    <p id="wind"></p>
+                    <p id="humidity"></p>
+                </div>
+            </section>
+        </section>
+    </div>
+    <script src="weather/script.js"></script>
+</body>
+</html>
